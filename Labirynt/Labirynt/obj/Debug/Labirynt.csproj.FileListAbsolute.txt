@@ -1,0 +1,10 @@
+C:\Users\Kuba\source\repos\Labirynt\Labirynt\bin\Debug\Labirynt.exe.config
+C:\Users\Kuba\source\repos\Labirynt\Labirynt\bin\Debug\Labirynt.exe
+C:\Users\Kuba\source\repos\Labirynt\Labirynt\bin\Debug\Labirynt.pdb
+C:\Users\Kuba\source\repos\Labirynt\Labirynt\obj\Debug\Labirynt.csproj.AssemblyReference.cache
+C:\Users\Kuba\source\repos\Labirynt\Labirynt\obj\Debug\Labirynt.Form1.resources
+C:\Users\Kuba\source\repos\Labirynt\Labirynt\obj\Debug\Labirynt.Properties.Resources.resources
+C:\Users\Kuba\source\repos\Labirynt\Labirynt\obj\Debug\Labirynt.csproj.GenerateResource.cache
+C:\Users\Kuba\source\repos\Labirynt\Labirynt\obj\Debug\Labirynt.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\source\repos\Labirynt\Labirynt\obj\Debug\Labirynt.exe
+C:\Users\Kuba\source\repos\Labirynt\Labirynt\obj\Debug\Labirynt.pdb
