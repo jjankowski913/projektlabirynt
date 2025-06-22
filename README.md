@@ -1,27 +1,38 @@
-Labirynt — Gra Windows Forms
-Prosta gra labiryntowa napisana w języku C# z wykorzystaniem Windows Forms.
-Opis
-Celem gry jest jak najszybsze przejście kursorem od punktu startowego do mety, nie dotykając ścian ani ruchomej przeszkody. Gra motywuje do bicia własnych rekordów, a efekty dźwiękowe oraz tryb nocny czynią rozgrywkę jeszcze ciekawszą.
-Funkcje
+🌀 Labirynt — Gra Windows Forms
 
-Licznik czasu oraz wyświetlanie najlepszego wyniku (rekordu).
-Automatyczny zapis rekordu do pliku rekord.txt — rekord nie znika po zamknięciu gry.
-Efekty dźwiękowe przy dotknięciu ściany, przeszkody oraz po dojściu do mety.
-Ruchoma przeszkoda utrudniająca przejście przez labirynt.
-Tryb nocny — zmiana kolorystyki gry na ciemną jednym kliknięciem.
-Intuicyjny interfejs i automatyczne ustawianie kursora na start.
 
-Uruchomienie
+📝 Opis projektu
+Prosta gra komputerowa, w której zadaniem gracza jest przejście kursorem przez labirynt najszybciej jak to możliwe, unikając ścian oraz ruchomej przeszkody. Gra została napisana w języku C# z użyciem Windows Forms. Oferuje intuicyjny interfejs, efekty dźwiękowe oraz trwałe zapisywanie rekordu.
 
-Otwórz projekt w Visual Studio..
+✨ Funkcje
+
+Licznik czasu oraz wyświetlanie najlepszego wyniku (rekordu)
+Automatyczny zapis rekordu do pliku rekord.txt (rekord nie znika po zamknięciu gry)
+Efekty dźwiękowe przy dotknięciu ścian, przeszkody i po dojściu do mety
+Ruchoma przeszkoda w labiryncie
+Intuicyjny interfejs i automatyczne ustawianie kursora na start
+
+
+▶️ Jak grać?
+
 Kliknij przycisk Start, aby rozpocząć grę.
-Przejdź kursorem przez labirynt do mety, unikając ścian i przeszkody.
+Przesuwaj kursor myszy przez labirynt od punktu startowego do mety.
+Unikaj ścian oraz ruchomej przeszkody — dotknięcie ich powoduje powrót na start i dźwięk błędu.
+Po dojściu do mety usłyszysz dźwięk zwycięstwa, a Twój czas zostanie wyświetlony.
+Jeśli pobijesz rekord, zostanie on automatycznie zapisany.
+Tryb nocny uruchomisz osobnym przyciskiem.
 
 
-Plik rekord.txt zostanie utworzony automatycznie w folderze z aplikacją po ustanowieniu pierwszego rekordu.
-Wyróżniki projektu
+🎵 Wyróżniki projektu
 
-Trwałe zapisywanie rekordu: Najlepszy czas jest automatycznie zapisywany do pliku i wczytywany przy każdym uruchomieniu.
-Efekty dźwiękowe: Gra informuje dźwiękiem o błędach i sukcesie.
+Trwałe zapisywanie rekordu: Najlepszy czas jest automatycznie zapisywany do pliku i wczytywany przy każdym uruchomieniu gry.
+Efekty dźwiękowe: Każde ważne zdarzenie sygnalizowane jest odpowiednim dźwiękiem.
+Tryb nocny: Komfortowa gra także wieczorem — kolorystyka zmienia się jednym kliknięciem.
 
+
+⚙️ Uruchomienie
+
+Otwórz projekt w Visual Studio.
+Zbuduj i uruchom aplikację (F5).
+Po ustanowieniu pierwszego rekordu plik rekord.txt utworzy się automatycznie w folderze z aplikacją.
 
